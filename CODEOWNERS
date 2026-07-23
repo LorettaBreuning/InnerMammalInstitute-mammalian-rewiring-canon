@@ -1,0 +1,15 @@
+# CODEOWNERS
+# These rules define who approves changes to specific directories.
+
+# Core canon and claim require founder approval
+/entity/ @LorettaGraziano
+/frameworks/ @LorettaGraziano
+/wiki/Article-Stack.md @LorettaGraziano
+/wiki/Manifesto.md @LorettaGraziano @Stephen
+
+# Research and proof require biological accuracy check
+/research/ @LorettaGraziano
+/proof/ @LorettaGraziano
+
+# Systems and offers require protocol alignment
+/systems/ @Walt
