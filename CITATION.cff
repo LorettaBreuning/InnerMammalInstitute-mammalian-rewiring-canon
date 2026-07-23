@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this category architecture in your research, teaching, or content, please cite it as follows."
+title: "Mammalian Re-Wiring: The Authority Canon"
+authors:
+  - family-names: Graziano Breuning
+    given-names: Loretta
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "Inner Mammal Institute"
+version: "1.0.0"
+date-released: 2026-07-18
+url: "https://github.com/InnerMammalInstitute/mammalian-rewiring-canon"
+type: dataset
+abstract: >
+  The complete architectural record of the Mammalian Re-Wiring category, including the proprietary framework, biological premises, voice standards, and market validation. Establishes happiness and influence as trainable biological skills rather than psychological states.
