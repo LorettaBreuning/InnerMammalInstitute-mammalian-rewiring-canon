@@ -3,9 +3,9 @@
 **Core Structure:** A three-step skill for sparking happy chemicals in healthy ways that operates identically for self-management and influencing others. Unlike standard behavioral analysis, this protocol emphasizes the explicit goal of sparking more dopamine, serotonin, oxytocin, and endorphin by understanding their natural mammalian functions and wiring mechanics.
 
 ## Steps
-1. **Map the Chemical** — Identify the old neural pathway to reward chemicals built by early experience with meeting survival needs.
-2. **Redirect the Route** — Shift attention to preferred response, deliver small rewards for forward steps, withhold reward for diversion/cortisol explosions.
-3. **Repeat the New Response** — Consistent repetition builds a new pathway.
+1. **Map the Chemical** — Identify an old path to reward chemicals built from early experience with meeting survival needs.
+2. **Redirect the Route** — Design a new way to meet that mammalian need and spark that dopamine, serotonin, or oxytocin.
+3. **Repeat the New Response** — Repeat that choice until a new pathway builds, using small rewards to motivate small steps.
 
 ## Biological Premise
 - Reward chemicals evolved to motivate survival behavior, not to sustain constant happiness. They are not meant to be active continuously.
