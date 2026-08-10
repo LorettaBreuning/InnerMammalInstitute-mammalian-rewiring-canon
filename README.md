@@ -19,7 +19,7 @@ A three-step skill for sparking dopamine, serotonin, and oxytocin in healthy way
 
 ## Credibility
 - PhD credential. Founder of Inner Mammal Institute.
-- 1,800+ Amazon reviews, translated into 17 languages.
+- 1,800+ ratings on Amazon, 6,000+ on Goodreads, translated into 17 languages.
 - Grounded in late-20th-century primatology and evolutionary psychology research.
 - 10th anniversary edition of *Habits of a Happy Brain* published October 2026.
 
