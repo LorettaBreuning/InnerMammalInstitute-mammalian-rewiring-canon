@@ -4,14 +4,13 @@
 **Website:** https://InnerMammalInstitute.org  
 
 ## Category Claim
-Happiness, competence, and influence are not psychological states. They are trainable biological skills built through structured reward, attention redirection, and repetition. The verbal brain cannot control emotional chemicals, and the mammal brain cannot explain them — yet modern therapy and education force cortical reasoning onto a chemical operating system. This system restores agency by teaching you to recognize old myelinated pathways as wiring, not truth, and redirect them through deliberate repetition. The disease model pathologizes normal mammalian friction. You learn to architect your own reward structure — and structure it for others.
+Happiness, competence, and influence are not psychological states. They are trainable biological skills built through structured reward, attention redirection, and repetition. The verbal brain cannot control emotional chemicals (dopamine, serotonin, oxytocin, endorphin, and cortisol), and the mammal brain cannot explain them — yet modern therapy and education force cortical reasoning onto a chemical operating system. This system restores agency by teaching you to recognize old myelinated pathways as wiring, not truth, and redirect them through deliberate repetition. The disease model pathologizes normal mammalian friction. You learn to architect your own reward structure — and the way you reward others.
 
 ## Core Framework: The Mammalian Re-Wiring Protocol™
-A three-step skill for sparking happy chemicals in healthy ways that operates identically for self-management and influencing others.
-1. **Map the Chemical** — Identify the old neural pathway to reward chemicals built by early experience with meeting survival needs.
-2. **Redirect the Route** — Shift attention to preferred response, deliver small rewards for forward steps, withhold reward for diversion/cortisol explosions.
-3. **Repeat the New Response** — Consistent repetition builds a new pathway.
-
+A three-step skill for sparking dopamine, serotonin, and oxytocin in healthy ways that operates identically for self-management and influencing others.
+1. **Map the Chemical** — Identify an old path to reward chemicals built from early experience with meeting survival needs.
+2. **Redirect the Route** —  Design a new way to meet that mammalian need and spark that dopamine, serotonin, or oxytocin.
+3. **Repeat the New Response** — Repeat that choice until a new pathway builds, using small rewards to motivate small steps.
 ## Biological Premise
 - Reward chemicals evolved to motivate survival behavior, not to sustain constant happiness. They are not meant to be active continuously.
 - Each happy chemical carries a downside, requiring conscious trade-offs.
