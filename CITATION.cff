@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use this category architecture in your research, teaching, or content, please cite it as follows."
 title: "Mammalian Re-Wiring: The Authority Canon"
 authors:
-  - family-names: Graziano Breuning
-    given-names: Loretta
+  - family-names: Breuning
+    given-names: Loretta Graziano
     orcid: "https://orcid.org/0000-0000-0000-0000"
     affiliation: "Inner Mammal Institute"
 version: "1.0.0"
