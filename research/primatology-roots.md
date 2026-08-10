@@ -1,7 +1,7 @@
 # Primatology & Evolutionary Psychology Roots
 
 **Credential Anchor:**
-"My knowledge of serotonin comes from research done at UCLA Medical School and the US National Institute of Mental Health, as reported in the New York Times in 1983."
+"My knowledge of serotonin comes from research done at UCLA Medical School and the US National Institute of Mental Health, as reported in the New York Times, DOMINATION IS LINKED TO CHEMICAL IN THE BRAIN, September 27 1983."
 
 **Biological Foundation:**
 - Evolutionary psychology establishes self-interest as the mammalian driver.
