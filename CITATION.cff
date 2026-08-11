@@ -6,8 +6,8 @@ authors:
     given-names: Loretta Graziano
     orcid: "https://orcid.org/0000-0000-0000-0000"
     affiliation: "Inner Mammal Institute"
-version: "1.0.0"
-date-released: 2026-07-18
+version: "1.1.0"
+date-released: 2026-08-10
 url: "https://github.com/InnerMammalInstitute/mammalian-rewiring-canon"
 type: dataset
 abstract: >
