@@ -10,10 +10,9 @@
 - Major revisions require a new version tag and founder sign-off.
 - Downstream agents (Stephen, Stanley, Maya, Isaac, Walt) must pull from the latest canonical version.
 
-## Manifesto Routing
-- Status: Pending production by Stephen.
-- Rule: Loretta must review and approve before installation in `/wiki/Manifesto.md`.
-- Until approved, the placeholder remains active. Do not publish content referencing a completed manifesto.
+## Manifesto Status
+- Status: Installed. Full text archived in `/MANIFESTO.md`.
+- Rule: No further edits without founder approval. All downstream expression must align with the installed manifesto voice and biological framing.
 
 ## Integrity Failsafe
 If any output contradicts the biological premise or treats mammalian friction as pathology, it fails the canon audit. Rewrite from source.
